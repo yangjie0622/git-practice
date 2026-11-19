@@ -1,0 +1,20 @@
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# 依赖与构建产物
+node_modules/
+dist/
+build/
+__pycache__/
+
+# 密钥与本地配置（绝对不要提交）
+.env
+.env.local
+*.key
+*.pem
+
+# 日志
+*.log

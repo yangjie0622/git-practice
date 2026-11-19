@@ -1,0 +1,9 @@
+这是我的第一个 Git 仓库。
+
+试着改动这一行，然后执行：
+  git status
+  git add hello.txt
+  git commit -m "练习：修改 hello.txt"
+  git push
+
+改一次、提交一次，你就走完了一个完整的版本循环。
