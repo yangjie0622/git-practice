@@ -18,7 +18,7 @@
 - [x] 创建仓库并完成第一次 commit
 - [x] 在 GitHub 上创建远程仓库
 - [x] 完成第一次 push
-- [ ] 试一次 branch + merge
+- [x] 试一次 branch + merge
 
 ## 三条日常命令
 
