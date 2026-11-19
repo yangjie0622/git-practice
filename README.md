@@ -16,8 +16,8 @@
 - [x] 装好 Git（免安装版，路径 `C:\Users\yj\Tools\PortableGit`）
 - [x] 配置用户名与邮箱
 - [x] 创建仓库并完成第一次 commit
-- [ ] 在 GitHub 上创建远程仓库
-- [ ] 完成第一次 push
+- [x] 在 GitHub 上创建远程仓库
+- [x] 完成第一次 push
 - [ ] 试一次 branch + merge
 
 ## 三条日常命令
